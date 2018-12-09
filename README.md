@@ -22,7 +22,7 @@ Main Menu
 
 # Screenshot:
 
-<img src="UtkarshSingh-Test/One.png"  width="200" height="300">
+<img src="/One.png"  width="200" height="300">
 <img src="UtkarshSingh-Test/two.png"  width="200" height="300">
 <img src="UtkarshSingh-Test/three.png"  width="200" height="300">
 
